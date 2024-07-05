@@ -1,4 +1,4 @@
-Welcome to the Superstore Sales Dashboard repository! This dashboard visualizes sales data from a fictional Superstore using Tableau.
+# Welcome to the Superstore Sales Dashboard repository! This dashboard visualizes sales data from a fictional Superstore using Tableau.
 
 ## Features
 
